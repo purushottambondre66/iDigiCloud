@@ -1,0 +1,13 @@
+{
+  "user.login": "लॉग इन करें",
+  "dashboard": "डैशबोर्ड",
+  "dashboard.analysis": "विश्लेषण",
+  "dashboard.monitor": "निगरानी",
+  "dashboard.workplace": "कार्यस्थल",
+  "projects": "परियोजनाओं",
+  "projects.list": "परियोजना सूची",
+  "projects.settings": "सेटिंग्स",
+  "projects.details": "परियोजना विवरण",
+  "logout": "लॉग आउट",
+  "welcome-text": "स्वागत है"
+}

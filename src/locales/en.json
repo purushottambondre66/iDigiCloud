@@ -1,0 +1,13 @@
+{
+  "user.login": "Login",
+  "dashboard": "Dashboard",
+  "dashboard.analysis": "Analysis",
+  "dashboard.monitor": "Monitor",
+  "dashboard.workplace": "Workplace",
+  "projects": "Projects",
+  "projects.list": "Project List",
+  "projects.settings": "Settings",
+  "projects.details": "Project Details",
+  "logout": "Logout",
+  "welcome-text": "Welcome User"
+}
